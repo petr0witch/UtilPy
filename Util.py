@@ -1,3 +1,8 @@
+# UPDATE 07.04.2024 - поправил "Тренинг_Обработка Отзовик" + Смена Трени и Курсы местами
+# UPDATE 17.05.2024 - добавил "Тренинг от отдела обучения" + "Тренинг_Обучение_НО"
+# UPDATE 02.06.2024 - Global VIP
+# UPDATE 07.06.2024 - Финс убрал
+
 import openpyxl
 from openpyxl.styles import NamedStyle, Font
 from datetime import timedelta
